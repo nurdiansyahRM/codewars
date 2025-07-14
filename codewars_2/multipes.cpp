@@ -14,7 +14,7 @@ int solution(int number){
 }
 int main(){
     int tampung;
-    tampung = solution(5);
+    tampung = solution(10);
     cout << tampung;
     return tampung;
 }
